@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **second-year Information Science and Engine
 - 🔹 **Proficient in**: Python, C
 - 🔹 **Currently Learning**: Full-stack web development
 - 🔹 **Experience**: 2 years of Python, 6 months of C
-- 🔹 **Developer & Creator**: Built [Neozy](https://github.com/CoderShibu/Neozy) - a colorful bubble-popping game using Pygame
+- 🔹 **Developer & Creator**: Built [Skatter](https://github.com/CoderShibu/Skatter.git)) 
 - 🔹 **Hobbies**: Video editing , Social Media Manegment, exploring tech, creating random edits on [Instagram](https://www.instagram.com/your_instagram)
 
 ### 🔧 Skills
@@ -22,8 +22,7 @@ Welcome to my GitHub profile! I'm a **second-year Information Science and Engine
 ---
 
 ### 📌 Projects to Check Out
-- **Neozy**: [Neozy](https://github.com/CoderShibu/Neozy) - A relaxing bubble-popping adventure game built with Python and Pygame.
-- **Coming Soon**:Skatter!
+- **Neozy**: [Skatter](https://github.com/CoderShibu/Skatter.git)
 
 Feel free to explore my repositories, connect, and collaborate!
 Thanks for visiting my profile! 😄
