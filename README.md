@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a **second-year Information Science and Engine
 
 ### 🌐 Connect with Me
 - **GitHub**: [CoderShibu](https://github.com/CoderShibu)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/shibasishbanerjee)
-- **Instagram**: [@YourInstagram](https://www.instagram.com/shibu.who)
+- **LinkedIn**: [Shibasish Banerjee](https://www.linkedin.com/in/shibasishbanerjee)
+- **Instagram**: [@Shibasish](https://www.instagram.com/shibu.who)
 
 ---
 
